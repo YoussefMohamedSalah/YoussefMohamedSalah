@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://youssefmohamedsalah.github.io/cvyoussef/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://youssefmohamedsalah.github.io/cvyoussef/ target="_blank")**
 
 - 📫 How to reach me **edge.mohamed120@gmail.com**
 
