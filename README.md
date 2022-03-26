@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://youssefmohamedsalah.github.io/cvyoussef/ target="_blank")**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://youssefmohamedsalah.github.io/cvyoussef/)**
 
 - 📫 How to reach me **edge.mohamed120@gmail.com**
 
@@ -63,8 +63,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/youssef-mohamed-7aa783212/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/YoussefMohamedSala/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/youssef-mohamed-7aa783212/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/YoussefMohamedSala/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
  -->
