@@ -6,17 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[CRM Website](https://github.com/YoussefMohamedSalah/simple-E-Commerce)**
+- 🔭 I’m currently working on **[WebSites Builder /PRIVATE REPOSITORY]**
 
-- 🌱 I’m currently learning **React & Data Structures.**
+- 🌱 I’m currently learning **Python & Django.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://youssefmohamedsalah.github.io/cvyoussef/)**
+- 📫 How to reach me **devyoussefsalah@gmail,com**
 
-- 📫 How to reach me **edge.mohamed120@gmail.com**
-
-- ⚡ Fun fact **I Study programming more than i studied petroleum engineering.**
+- ⚡ Fun fact **I'm a petroleum engineer.**
 
 ## 🚀 Languages and Tools:
 
